@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <title>requirejs</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1,maximun-scale=1,minimun-scale=1">
+        <script>
+            window.onload = function() {
+                var req = document.createElement('script');
+                req.setAttribute('data-main', './assets/lib/common/index.js');
+                req.src = './assets/lib/common/require.js';
+                document.head.append(req);
+            }
+        </script>
+    </head>
+    <body>
+    <ul>
+        <li><a href="#/home">home</a></li>
+        <li><a href="#/about">about</a></li>
+    </ul>
+    </body>
+</html>
