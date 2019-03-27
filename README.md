@@ -1,13 +1,13 @@
 # requirejs
 -
 
-####项目前端采用AMD模块化设置
+#### 项目前端采用AMD模块化设置
 
 * 引入requirejs处理所有文件加载
 * [requirejs开发文档](https://requirejs.org/)
 * [requirejs入门文章介绍](http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html)
 
-#项目资源配置
+# 项目资源配置
 -
 
 * src 主体文件
