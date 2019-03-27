@@ -1,7 +1,7 @@
 # requirejs
 -
 
-####项目前端采用AMD模块化设置
+#### 项目前端采用AMD模块化设置
 
 * 引入requirejs处理所有文件加载
 * [requirejs开发文档](https://requirejs.org/)
