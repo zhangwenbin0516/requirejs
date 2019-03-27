@@ -7,7 +7,7 @@
 * [requirejs开发文档](https://requirejs.org/)
 * [requirejs入门文章介绍](http://www.cnblogs.com/snandy/archive/2012/05/23/2513712.html)
 
-#项目资源配置
+# 项目资源配置
 -
 
 * src 主体文件
